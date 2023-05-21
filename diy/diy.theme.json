@@ -5,67 +5,67 @@
     "dark": true,
     "background": "",
     "backgroundBlur": false,
-    "backgroundColor": "#8dac85",
+    "backgroundColor": "#ffffff",
     "pure": true,
     "maxLevel": 50,
     "icons": [
         {
             "name": "1",
-            "content": "/1.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xttay4.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "2",
-            "content": "/2.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xtt1wn.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "3",
-            "content": "/3.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xttNSU.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "4",
-            "content": "/4.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xtt3oq.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "5",
-            "content": "/5.png",
+            "content": "https://www.philosophers.co.uk/immanuel-kant.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "6",
-            "content": "/6.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xttJYV.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "7",
-            "content": "/7.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xttUlF.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "8",
-            "content": "/8.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xttdOJ.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "9",
-            "content": "/9.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xttYWT.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "10",
-            "content": "/10.png",
+            "content": "https://s1.ax1x.com/2022/10/10/xtt0m9.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         }
